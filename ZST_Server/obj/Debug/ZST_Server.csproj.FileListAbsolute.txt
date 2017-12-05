@@ -1,0 +1,9 @@
+C:\Users\Bartłomiej\source\repos\ZST_Server\ZST_Server\bin\Debug\ZST_Server.exe.config
+C:\Users\Bartłomiej\source\repos\ZST_Server\ZST_Server\bin\Debug\ZST_Server.exe
+C:\Users\Bartłomiej\source\repos\ZST_Server\ZST_Server\bin\Debug\ZST_Server.pdb
+C:\Users\Bartłomiej\source\repos\ZST_Server\ZST_Server\obj\Debug\ZST_Server.csprojResolveAssemblyReference.cache
+C:\Users\Bartłomiej\source\repos\ZST_Server\ZST_Server\obj\Debug\ZST_Server.csproj.CoreCompileInputs.cache
+C:\Users\Bartłomiej\source\repos\ZST_Server\ZST_Server\obj\Debug\ZST_Server.exe
+C:\Users\Bartłomiej\source\repos\ZST_Server\ZST_Server\obj\Debug\ZST_Server.pdb
+C:\Users\Bartłomiej\source\repos\ZST_Server\ZST_Server\bin\Debug\Database.mdf
+C:\Users\Bartłomiej\source\repos\ZST_Server\ZST_Server\bin\Debug\Database_log.ldf

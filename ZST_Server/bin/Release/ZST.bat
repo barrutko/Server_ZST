@@ -1,0 +1,1 @@
+start ZST_Server.exe localhost
